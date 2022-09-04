@@ -14,6 +14,7 @@
 		CEA6D8BD28C2DE3600335C39 /* LaunchScreen.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CEA6D8BB28C2DE3600335C39 /* LaunchScreen.xcdatamodeld */; };
 		CEA6D8BF28C2DE3900335C39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA6D8BE28C2DE3900335C39 /* Assets.xcassets */; };
 		CEA6D8C228C2DE3900335C39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEA6D8C028C2DE3900335C39 /* LaunchScreen.storyboard */; };
+		CEA6D8CA28C334BD00335C39 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA6D8C928C334BD00335C39 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CEA6D8BE28C2DE3900335C39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEA6D8C128C2DE3900335C39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEA6D8C328C2DE3900335C39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEA6D8C928C334BD00335C39 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				CEA6D8B228C2DE3600335C39 /* AppDelegate.swift */,
 				CEA6D8B428C2DE3600335C39 /* SceneDelegate.swift */,
 				CEA6D8B628C2DE3600335C39 /* ViewController.swift */,
+				CEA6D8C928C334BD00335C39 /* HomeViewController.swift */,
 				CEA6D8B828C2DE3600335C39 /* Main.storyboard */,
 				CEA6D8BE28C2DE3900335C39 /* Assets.xcassets */,
 				CEA6D8C028C2DE3900335C39 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEA6D8CA28C334BD00335C39 /* HomeViewController.swift in Sources */,
 				CEA6D8BD28C2DE3600335C39 /* LaunchScreen.xcdatamodeld in Sources */,
 				CEA6D8B728C2DE3600335C39 /* ViewController.swift in Sources */,
 				CEA6D8B328C2DE3600335C39 /* AppDelegate.swift in Sources */,
